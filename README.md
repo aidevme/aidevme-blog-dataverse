@@ -1,1 +1,1 @@
-## AIDEVME Blog - Datavere components
+## AIDEVME Blog - Dataverse components
